@@ -76,7 +76,8 @@ ab-testing-uplift-modeling/
 │   └── Causal_Inference_Complete_Analysis.xlsx ← 🧠 The "Source Code" (Full Excel Logic)
 │
 ├── reports/
-│   └── Causal Inference Analysis Report.pdf    ← Executive Summary & Recommendations
+│   ├── Causal Inference Analysis Report.pdf    ← Executive Summary & Recommendations (PDF)
+│   └── Causal Inference Analysis Report.docx   ← Editable Source (DOCX)
 │
 ├── LICENSE                       ← MIT License
 └── README.md                     ← Project documentation
