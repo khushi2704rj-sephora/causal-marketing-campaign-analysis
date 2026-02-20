@@ -2,6 +2,13 @@
 
 <div align="center">
 
+<img src="assets/banner.svg" alt="Banner" width="100%">
+
+</div>
+
+
+<div align="center">
+
 # 📊 A/B Testing & Uplift Modeling for Marketing Campaigns
 
 [![Excel](https://img.shields.io/badge/Analysis-Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
