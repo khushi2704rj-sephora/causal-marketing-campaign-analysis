@@ -14,6 +14,10 @@
 
 [📄 **Read the Full Analysis Report**](reports/Causal%20Inference%20Analysis%20Report.pdf)
 
+---
+
+[🎯 Overview](#-project-overview) · [📈 Key Findings](#-key-findings) · [🏗️ Methodology](#️-methodology) · [📂 Structure](#-repository-structure) · [🚀 Usage](#-how-to-use) · [🤝 Contributing](#-contributing)
+
 </div>
 
 ---
@@ -51,9 +55,30 @@ graph LR
 
 > **Business Impact:** The campaign generated a **215% Return on Investment (ROI)** after accounting for ad spend. The uplift was highest among the "Loyal" customer segment, suggesting future budget should be reallocated from acquisition to retention.
 
+### Statistical Summary
+
+| Metric | Value | Interpretation |
+|---|---|---|
+| **Average Treatment Effect (ATE)** | +3.8 pp | Campaign lifts conversion by 3.8 percentage points |
+| **Treatment Conversion Rate** | 12.5% | Observed rate among exposed users |
+| **Control Conversion Rate** | 8.2% | Observed rate among unexposed users |
+| **p-value** | < 0.05 | Statistically significant at 95% confidence |
+| **ROI** | 215% | Revenue gain after ad spend |
+| **Highest-Uplift Segment** | Loyal Customers | Retention > Acquisition for budget allocation |
+
 ---
 
 ## 🏗️ Methodology
+
+```mermaid
+flowchart LR
+    A["📦 Raw Data\nmarketing_campaign_dataset.xlsx"] --> B["🧹 Data Prep\nClean + Handle\nMissing Values"]
+    B --> C["📊 Propensity\nScore Estimation\nLogistic Regression"]
+    C --> D["🔗 Nearest-Neighbor\nMatching\nTreatment ↔ Control"]
+    D --> E["📈 Lift\nCalculation\nATE = T - C"]
+    E --> F["🧪 Significance\nTesting\np < 0.05"]
+    F --> G["💰 ROI\n& Segment\nAnalysis"]
+```
 
 Since this analysis is performed entirely in Excel, the logic is transparent and traceable:
 
@@ -106,6 +131,14 @@ Contributions are welcome! If you'd like to implement this analysis in Python or
 
 <div align="center">
 
-**Built with ❤️ for Marketing Analytics**
+### 👩‍💻 Author
+
+**Khushi Kothari**
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/khushi2704rj-sephora)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khushi-kothari--/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:khushi2704.ak@gmail.com)
+
+*MSc Business Analytics · Marketing Analytics & Causal Inference*
 
 </div>
