@@ -1,3 +1,5 @@
+[![Check Markdown Links](https://github.com/khushi2704rj-sephora/AB-Testing-Uplift-Modeling-for-Marketing-Campaigns/actions/workflows/link-check.yml/badge.svg)](https://github.com/khushi2704rj-sephora/AB-Testing-Uplift-Modeling-for-Marketing-Campaigns/actions/workflows/link-check.yml)
+
 <div align="center">
 
 # 📊 A/B Testing & Uplift Modeling for Marketing Campaigns
