@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2a5a,100:4a6cf7&height=220&section=header&text=A/B%20Testing%20%26%20Uplift%20Modeling&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Causal%20Inference%20%7C%20Propensity%20Score%20Matching%20%7C%20Marketing%20Analytics&descSize=16&descAlignY=55&descColor=cccccc" alt="Banner" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2a5a,100:4a6cf7&height=220&section=header&text=A%2FB%20Testing%20%2526%20Uplift%20Modeling&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Causal%20Inference%20%7C%20Propensity%20Score%20Matching%20%7C%20Marketing%20Analytics&descSize=16&descAlignY=55&descColor=cccccc" alt="Banner" width="100%">
 
 </div>
 
