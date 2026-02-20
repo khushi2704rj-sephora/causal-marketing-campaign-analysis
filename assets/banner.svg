@@ -23,7 +23,7 @@
   <path d="M0,250 C200,230 400,260 600,240 C800,220 1000,250 1200,235 L1200,300 L0,300 Z" fill="#4a6cf7" opacity="0.3"/>
   
   <!-- Title -->
-  <text x="600" y="110" font-family="Segoe UI, Arial, sans-serif" font-size="48" font-weight="bold" fill="white" text-anchor="middle" letter-spacing="1">A/B Testing & Uplift Modeling</text>
+  <text x="600" y="110" font-family="Segoe UI, Arial, sans-serif" font-size="48" font-weight="bold" fill="white" text-anchor="middle" letter-spacing="1">A/B Testing &amp; Uplift Modeling</text>
   
   <!-- Subtitle -->
   <text x="600" y="155" font-family="Segoe UI, Arial, sans-serif" font-size="18" fill="rgba(255,255,255,0.85)" text-anchor="middle" letter-spacing="2">Causal Inference | Propensity Score Matching | Marketing Analytics</text>
