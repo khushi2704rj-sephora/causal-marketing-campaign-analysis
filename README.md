@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="assets/banner.svg" alt="Banner" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving<img src="assets/banner.svg" alt="Banner" width="100%">color=0:0d1117,50:1a2a5a,100:4a6cf7<img src="assets/banner.svg" alt="Banner" width="100%">height=220<img src="assets/banner.svg" alt="Banner" width="100%">section=header<img src="assets/banner.svg" alt="Banner" width="100%">text=A/B%20Testing%20%26%20Uplift%20Modeling<img src="assets/banner.svg" alt="Banner" width="100%">fontSize=42<img src="assets/banner.svg" alt="Banner" width="100%">fontColor=ffffff<img src="assets/banner.svg" alt="Banner" width="100%">animation=fadeIn<img src="assets/banner.svg" alt="Banner" width="100%">fontAlignY=35<img src="assets/banner.svg" alt="Banner" width="100%">desc=Causal%20Inference%20%7C%20Propensity%20Score%20Matching%20%7C%20Marketing%20Analytics<img src="assets/banner.svg" alt="Banner" width="100%">descSize=16<img src="assets/banner.svg" alt="Banner" width="100%">descAlignY=55<img src="assets/banner.svg" alt="Banner" width="100%">descColor=cccccc" alt="Banner" width="100%">
 
 </div>
 
